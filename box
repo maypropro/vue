@@ -1,0 +1,49 @@
+!DOCTYPE html>
+<html lang="en">
+
+<head>
+        
+    <meta charset="UTF-8">
+        
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>box</title>
+
+    <style>
+        h1,
+        h2,
+        h3,
+        h4,
+        table {
+            background-color: lightgrey;
+            width: 60px;
+            border: 10px solid green;
+            padding: 25px;
+            margin: 25px;
+        }
+
+        h1,
+        h2,
+        h3,
+        h4 {
+            float: right;
+        }
+    </style>
+
+</head>
+
+<body>
+         <h1>hello</h1>
+         <h2>盒子</h2>
+         <h3>hello</h3>
+         <h4>hello</h4>
+         <p>box model</p>
+         <p>this is my first line</p>
+         <div>content</div>  
+
+
+
+</body>
+
+</html>
